@@ -1,0 +1,15 @@
+C:\Users\giorgio.salutini\Desktop\Codifiche_Ascii\Codifiche_Ascii\bin\Debug\net6.0\Codifiche_Ascii.exe
+C:\Users\giorgio.salutini\Desktop\Codifiche_Ascii\Codifiche_Ascii\bin\Debug\net6.0\Codifiche_Ascii.deps.json
+C:\Users\giorgio.salutini\Desktop\Codifiche_Ascii\Codifiche_Ascii\bin\Debug\net6.0\Codifiche_Ascii.runtimeconfig.json
+C:\Users\giorgio.salutini\Desktop\Codifiche_Ascii\Codifiche_Ascii\bin\Debug\net6.0\Codifiche_Ascii.dll
+C:\Users\giorgio.salutini\Desktop\Codifiche_Ascii\Codifiche_Ascii\bin\Debug\net6.0\Codifiche_Ascii.pdb
+C:\Users\giorgio.salutini\Desktop\Codifiche_Ascii\Codifiche_Ascii\obj\Debug\net6.0\Codifiche_Ascii.csproj.AssemblyReference.cache
+C:\Users\giorgio.salutini\Desktop\Codifiche_Ascii\Codifiche_Ascii\obj\Debug\net6.0\Codifiche_Ascii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgio.salutini\Desktop\Codifiche_Ascii\Codifiche_Ascii\obj\Debug\net6.0\Codifiche_Ascii.AssemblyInfoInputs.cache
+C:\Users\giorgio.salutini\Desktop\Codifiche_Ascii\Codifiche_Ascii\obj\Debug\net6.0\Codifiche_Ascii.AssemblyInfo.cs
+C:\Users\giorgio.salutini\Desktop\Codifiche_Ascii\Codifiche_Ascii\obj\Debug\net6.0\Codifiche_Ascii.csproj.CoreCompileInputs.cache
+C:\Users\giorgio.salutini\Desktop\Codifiche_Ascii\Codifiche_Ascii\obj\Debug\net6.0\Codifiche_Ascii.dll
+C:\Users\giorgio.salutini\Desktop\Codifiche_Ascii\Codifiche_Ascii\obj\Debug\net6.0\refint\Codifiche_Ascii.dll
+C:\Users\giorgio.salutini\Desktop\Codifiche_Ascii\Codifiche_Ascii\obj\Debug\net6.0\Codifiche_Ascii.pdb
+C:\Users\giorgio.salutini\Desktop\Codifiche_Ascii\Codifiche_Ascii\obj\Debug\net6.0\Codifiche_Ascii.genruntimeconfig.cache
+C:\Users\giorgio.salutini\Desktop\Codifiche_Ascii\Codifiche_Ascii\obj\Debug\net6.0\ref\Codifiche_Ascii.dll
